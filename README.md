@@ -7,3 +7,12 @@ Some fooling around with ThreeJS. Just a concept, may be used for something some
 Looks pretty cool.
 
 ![6b0f5b22c9c37474d2ae601346968d2a](https://github.com/user-attachments/assets/79e3c87c-9af3-440a-a62a-70a792adbf20)
+
+
+To run this just clone the repo
+
+```bash
+npm install
+
+npm start
+```
